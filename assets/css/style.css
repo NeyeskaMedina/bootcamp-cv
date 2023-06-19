@@ -1,0 +1,36 @@
+.contain-flex{
+display: flex;
+display: inline-flex;
+}
+.contain-img{
+display: flex;
+position: relative;
+width: 60vw;
+justify-content: center;
+text-align: center;
+}
+.img{
+position: relative;
+width: 45vw;
+}
+.contain-nav{
+display: flex;
+position: relative;
+width: 40vw;
+align-items: center;
+}
+header ul{
+list-style: none;
+}
+.datoLaboral ol li{
+padding-bottom: 5px;
+}
+.contain-flex-red{
+display: flex;
+display: inline-flex;
+gap: 5vw;
+}
+
+
+
+

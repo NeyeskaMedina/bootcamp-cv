@@ -1,0 +1,17 @@
+table{
+    width: 100%;
+    height: 60vh;
+}
+th, td{
+width: 50%;
+}
+.theader{
+text-align: center;
+background-color: rgb(106, 209, 204);
+}
+.tmain{
+    text-align: left;
+}
+.tfooter{
+    text-align:justify;
+}
